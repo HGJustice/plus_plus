@@ -46,7 +46,6 @@ class BankAccount {
         std::cout << balance << "\n";
     }; 
 
-
     public: void get_first_name(){
         std::cout << first_name << "\n";
     }
@@ -68,6 +67,6 @@ int main(){
     simonsBank.withdraw(700);
     simonsBank.check_balance();
     simonsBank.withdraw(700);
-
+    simonsBank.check_balance();
     return 0;
 }
