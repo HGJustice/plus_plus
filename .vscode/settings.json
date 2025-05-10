@@ -4,6 +4,7 @@
     "__tree": "cpp",
     "map": "cpp",
     "iosfwd": "cpp",
-    "vector": "cpp"
+    "vector": "cpp",
+    "stack": "cpp"
   }
 }
